@@ -1,2 +1,2 @@
-# bigbata-programming
-2026.1학기
+# Bigbata-Programming
+
